@@ -1,5 +1,4 @@
 import './styles.css';
-import {ReactComponent as Logo} from './logo.svg';
 import {ReactComponent as MainImage} from './main.svg';
 import Footer from '../Footer';
 import { Link } from 'react-router-dom';
